@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab3-Fragments\\FragmentLab\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab3-Fragments\\FragmentLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,5,7,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "56,106,166,293,217",
+                        "endColumns": "49,59,50,69,75",
+                        "endOffsets": "101,161,212,358,288"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,165,216,286",
+                        "endColumns": "49,59,50,69,75",
+                        "endOffsets": "100,160,211,281,357"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab3-Fragments\\FragmentLab\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "7,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "362,653",
+                        "endLines": "13,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "648,808"
+                    }
+                }
+            ]
+        }
+    ]
+}

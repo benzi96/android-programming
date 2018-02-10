@@ -1,0 +1,93 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab3-Intents\\IntentsLab\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab3-Intents\\IntentsLab\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab3-Intents\\IntentsLab\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab3-Intents\\IntentsLab\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab3-Intents\\IntentsLab\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab3-Intents\\IntentsLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,17,18,21,22,9,8,10,11,4,5,20,13,14,15,16,19,6,7,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,963,1029,1243,1290,418,339,500,582,104,161,1183,701,757,821,892,1119,212,275,643",
+                        "endColumns": "47,65,89,46,66,81,78,81,60,56,50,59,55,63,70,70,63,62,63,57",
+                        "endOffsets": "99,1024,1114,1285,1352,495,413,577,638,156,207,1238,752,816,887,958,1178,270,334,696"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,169,259,306,373,455,534,616,677,734,785,845,901,965,1036,1107,1171,1234,1298",
+                        "endColumns": "47,65,89,46,66,81,78,81,60,56,50,59,55,63,70,70,63,62,63,57",
+                        "endOffsets": "98,164,254,301,368,450,529,611,672,729,780,840,896,960,1031,1102,1166,1229,1293,1351"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab3-Intents\\IntentsLab\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "22,29",
+                        "startColumns": "4,4",
+                        "startOffsets": "1356,1647",
+                        "endLines": "28,31",
+                        "endColumns": "12,12",
+                        "endOffsets": "1642,1802"
+                    }
+                }
+            ]
+        }
+    ]
+}

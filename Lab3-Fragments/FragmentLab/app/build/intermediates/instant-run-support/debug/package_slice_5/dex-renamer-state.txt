@@ -1,0 +1,4 @@
+#Sat Feb 10 15:40:53 ICT 2018
+base.0=C\:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab3-Fragments\\FragmentLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

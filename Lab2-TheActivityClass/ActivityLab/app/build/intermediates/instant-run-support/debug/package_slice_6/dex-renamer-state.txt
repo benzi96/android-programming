@@ -1,0 +1,4 @@
+#Sat Feb 10 09:18:25 ICT 2018
+base.0=C\:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab2-TheActivityClass\\ActivityLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
