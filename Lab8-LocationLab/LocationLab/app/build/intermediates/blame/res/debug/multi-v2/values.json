@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab7-LocationLab\\LocationLab\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab7-LocationLab\\LocationLab\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab7-LocationLab\\LocationLab\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "20,27",
+                        "startColumns": "4,4",
+                        "startOffsets": "1181,1472",
+                        "endLines": "26,29",
+                        "endColumns": "12,12",
+                        "endOffsets": "1467,1627"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab7-LocationLab\\LocationLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,17,5,18,4,12,10,13,11,15,14,8,7,9,6,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,928,159,977,105,507,399,604,452,790,707,289,241,351,201,863",
+                        "endColumns": "48,48,41,90,53,96,52,102,54,72,82,61,47,47,39,64",
+                        "endOffsets": "100,972,196,1063,154,599,447,702,502,858,785,346,284,394,236,923"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,218,267,309,400,454,551,604,707,762,835,918,980,1028,1076,1116",
+                        "endColumns": "48,48,41,90,53,96,52,102,54,72,82,61,47,47,39,64",
+                        "endOffsets": "213,262,304,395,449,546,599,702,757,830,913,975,1023,1071,1111,1176"
+                    }
+                }
+            ]
+        }
+    ]
+}
