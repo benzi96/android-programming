@@ -1,6 +1,30 @@
 {
     "logs": [
         {
+            "outputFile": "C:\\Users\\pc\\Documents\\GitHub\\coursera-android-programming\\Lab2-TheActivityClass\\ActivityLab\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\Documents\\GitHub\\coursera-android-programming\\Lab2-TheActivityClass\\ActivityLab\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab2-TheActivityClass\\ActivityLab\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
             "map": [
                 {
@@ -20,6 +44,47 @@
                         "endLines": "4",
                         "endColumns": "12",
                         "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\pc\\Documents\\GitHub\\coursera-android-programming\\Lab2-TheActivityClass\\ActivityLab\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\Documents\\GitHub\\coursera-android-programming\\Lab2-TheActivityClass\\ActivityLab\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "11,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "555,846",
+                        "endLines": "17,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "841,1001"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pc\\Documents\\GitHub\\coursera-android-programming\\Lab2-TheActivityClass\\ActivityLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,9,11,4,5,8,7,6,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,384,507,105,156,325,268,213,438",
+                        "endColumns": "48,53,48,50,56,58,56,54,68",
+                        "endOffsets": "100,433,551,151,208,379,320,263,502"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,158,207,258,315,374,431,486",
+                        "endColumns": "48,53,48,50,56,58,56,54,68",
+                        "endOffsets": "99,153,202,253,310,369,426,481,550"
                     }
                 }
             ]
@@ -70,6 +135,30 @@
             "map": [
                 {
                     "source": "C:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab2-TheActivityClass\\ActivityLab\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\pc\\Documents\\GitHub\\coursera-android-programming\\Lab2-TheActivityClass\\ActivityLab\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\Documents\\GitHub\\coursera-android-programming\\Lab2-TheActivityClass\\ActivityLab\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",

@@ -1,4 +1,4 @@
-#Tue Feb 13 01:45:39 ICT 2018
-base.0=C\:\\Users\\pc\\Downloads\\coursera-android-002-lab-solutions-master\\Lab7-LocationLab\\LocationLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+#Sat Mar 03 12:09:35 ICT 2018
+base.0=C\:\\Users\\pc\\Documents\\GitHub\\coursera-android-programming\\Lab8-LocationLab\\LocationLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
 path.0=classes.dex
 renamed.0=classes.dex

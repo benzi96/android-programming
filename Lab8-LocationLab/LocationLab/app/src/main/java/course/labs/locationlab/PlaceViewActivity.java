@@ -20,7 +20,7 @@ public class PlaceViewActivity extends ListActivity implements LocationListener 
     private static final String TAG = "Lab-Location";
 
     // Set to false if you don't have network access
-    public static boolean sHasNetwork = false;
+    public static boolean sHasNetwork = true;
 
     private Location mLastLocationReading;
     private PlaceViewAdapter mAdapter;
@@ -109,8 +109,8 @@ public class PlaceViewActivity extends ListActivity implements LocationListener 
                     else
                     {
                         // case 1
-
-                        new PlaceDownloaderTask(PlaceViewActivity.this, false).execute(mLastLocationReading);
+                        //addNewPlace(new PlaceRecord(mLastLocationReading));
+                        new PlaceDownloaderTask(PlaceViewActivity.this, sHasNetwork).execute(mLastLocationReading);
                         Log.i(TAG, "Starting Place Download");
                     }
                 }
@@ -188,26 +188,13 @@ public class PlaceViewActivity extends ListActivity implements LocationListener 
         // Do not add the PlaceBadge to the adapter
 
         // Otherwise - add the PlaceBadge to the adapter
-//        if (place.getLocation() != null){
-//            Toast.makeText(PlaceViewActivity.this,
-//                    "You already have this location badge",
-//                    Toast.LENGTH_LONG).show();
-//        }
-//        else if (place == null){
-//            Toast.makeText(PlaceViewActivity.this,
-//                    "PlaceBadge could not be acquired",
-//                    Toast.LENGTH_LONG).show();
-//        }
-//        else if (place.getCountryName() == null){
-//            Toast.makeText(PlaceViewActivity.this,
-//                    "There is no country at this location",
-//                    Toast.LENGTH_LONG).show();
-//        }
-//        else {
-        mAdapter.add(place);
-//        }
-
-
+        //if (place == null) {
+        //   Toast.makeText (this, "PlaceBadge could not be acquired", Toast.LENGTH_LONG).show ();
+        if (place.getPlace () == null) {
+            Toast.makeText (this, "There is no country at this location", Toast.LENGTH_LONG).show ();
+        } else {
+            mAdapter.add (place);
+        }
     }
 
     // LocationListener methods

@@ -40,6 +40,47 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "C:\\Users\\pc\\Documents\\GitHub\\coursera-android-programming\\Lab2-TheActivityClass\\ActivityLab\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\Documents\\GitHub\\coursera-android-programming\\Lab2-TheActivityClass\\ActivityLab\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "11,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "555,846",
+                        "endLines": "17,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "841,1001"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pc\\Documents\\GitHub\\coursera-android-programming\\Lab2-TheActivityClass\\ActivityLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,9,11,4,5,8,7,6,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,384,507,105,156,325,268,213,438",
+                        "endColumns": "48,53,48,50,56,58,56,54,68",
+                        "endOffsets": "100,433,551,151,208,379,320,263,502"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,158,207,258,315,374,431,486",
+                        "endColumns": "48,53,48,50,56,58,56,54,68",
+                        "endOffsets": "99,153,202,253,310,369,426,481,550"
+                    }
+                }
+            ]
         }
     ]
 }
