@@ -110,10 +110,10 @@ public class getXml extends AsyncTask<String, Void, String> {
 //                            Log.i("TAG", "parseXML: "+link);
                         }
                         else if(name.equals("description") && text.contains("src")){
-//                            Log.i("TAG", " " + name);
+                            Log.i("TAG", " " + name);
                             int start = text.indexOf("src=\"") +5;
                             int end = text.indexOf("jpg\"")+3;
-//                            Log.i("TAG", " " + text.substring(start,end));
+                            Log.i("TAG", " " + text.substring(start,end));
                             img = text.substring(start,end);
                             caption = text.substring(text.indexOf("<p>"));
                         }

@@ -30,9 +30,9 @@ public class MainActivity extends AppCompatActivity implements FragmentOne.OnFra
 
 
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
-        adapter.addFragment(new FragmentOne(),"Simple Recipes");
-        adapter.addFragment(new FragmentTwo(),"Low carb recipes");
-        adapter.addFragment(new FragmentThree(),"Vegetarian recipes");
+        adapter.addFragment(new FragmentOne(),"Meat & chicken");
+        adapter.addFragment(new FragmentTwo(),"Seafood");
+        adapter.addFragment(new FragmentThree(),"Salads");
         viewpager.setAdapter(adapter);
         // limit number of current page
         viewpager.setOffscreenPageLimit(3);

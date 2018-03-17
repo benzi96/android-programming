@@ -66,7 +66,7 @@ public class FragmentTwo extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view =inflater.inflate(R.layout.fragment_fragment_two, container, false);
-        new getXml(this.getContext(), (RecyclerView) view.findViewById(R.id.rc_lowcarb)).execute("http://feeds.feedburner.com/SimplyRecipesLowCarb");
+        new getXml(this.getContext(), (RecyclerView) view.findViewById(R.id.rc_lowcarb)).execute("https://cafedelites.com/category/dinner-healthy-recipes/seafood-dinner-healthy-recipes/feed");
 
         return view;
     }
