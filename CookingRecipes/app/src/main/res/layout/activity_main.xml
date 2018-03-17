@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.assignment.minhlk.cookingrecipes.MainActivity">
+    tools:context="com.assignment.pc.cookingrecipes.MainActivity">
 
 <android.support.design.widget.TabLayout
     android:layout_width="match_parent"
