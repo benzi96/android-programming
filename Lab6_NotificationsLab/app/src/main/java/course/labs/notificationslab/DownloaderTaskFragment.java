@@ -84,7 +84,9 @@ public class DownloaderTaskFragment extends Fragment {
 		}
 
 		protected void onPostExecute(String[] result) {
-			mCallback.notifyDataRefreshed(result);
+			if (mCallback != null) {
+				mCallback.notifyDataRefreshed(result);
+			}
 		}
 
 		// TODO: Uncomment this helper method. Simulates downloading Twitter data from the network.
