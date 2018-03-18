@@ -3,53 +3,38 @@
     <string name="first_recipe"><![CDATA[
     <div id="recipe" class="recipe" itemscope="" itemtype="http://schema.org/Recipe">
 <span class="item">
-<h2 class="fn" itemprop="name">Rosemary Chicken Noodle Soup</h2>
+<h2 class="fn" itemprop="name">HORSEFEATHER COCKTAIL</h2>
 </span>
 
-<div class="summary" itemprop="description" style="clear:left"><p>This Rosemary Chicken Noodle Soup recipe is kicked up a notch with the addition of lots of fresh aromatic rosemary, and it\'\s ready to go in about 30 minutes!</p>
+<div class="summary" itemprop="description" style="clear:left"><p>This classic Horsefeather Cocktail is easy to make with just 4 ingredients — your choice of whiskey, ginger beer, bitters and a squeeze of lime.  Basically, a refreshing whisky spin on a Moscow mule.</p>
 </div>
 
 
-<p class="cat1"><strong>Prep Time:</strong> <meta itemprop="prepTime" content="PT8M">8 mins</p>
-<p class="cat2"><strong>Cook Time:</strong> <meta itemprop="cookTime" content="PT22M">22 mins</p>
-<p class="cat3"><strong>Total Time:</strong> <meta itemprop="totalTime" content="PT30M">30 mins</p>
+<p class="cat1"><strong>Prep Time:</strong> <meta itemprop="prepTime" content="PT8M">2 mins</p>
+<p class="cat2"><strong>Cook Time:</strong> <meta itemprop="cookTime" content="PT22M">0 mins</p>
+<p class="cat3"><strong>Total Time:</strong> <meta itemprop="totalTime" content="PT30M">2 mins</p>
 </div>
 
 <h3 id="ingredients">Ingredients:</h3>
 <div class="ingredients"><ul>
-<li class="ingredient" itemprop="ingredients">2 Tablespoons olive oil</li>
-<li class="ingredient" itemprop="ingredients">1 small white onion, peeled and diced</li>
-<li class="ingredient" itemprop="ingredients">2 medium carrots, peeled and diced</li>
-<li class="ingredient" itemprop="ingredients">2 stalks celery, ends trimmed and diced</li>
-<li class="ingredient" itemprop="ingredients">3 cloves garlic, minced or pressed</li>
-<li class="ingredient" itemprop="ingredients">8 cups (64 ounces) good-quality chicken stock</li>
-<li class="ingredient" itemprop="ingredients">3-4 stalks *fresh rosemary (or more/less to taste)</li>
-<li class="ingredient" itemprop="ingredients">6 ounces wide egg noodles (or use gluten-free noodles if making this GF)</li>
-<li class="ingredient" itemprop="ingredients">2 cups shredded cooked chicken</li>
-<li class="ingredient" itemprop="ingredients">salt and pepper</li>
-<li class="ingredient" itemprop="ingredients">(optional: chopped fresh parsley for garnish)</li>
+<li class="ingredient" itemprop="ingredients">Ice</li><br>
+<li class="ingredient" itemprop="ingredients">2 ounces whiskey</li><br>
+<li class="ingredient" itemprop="ingredients">4 ounces ginger beer</li><br>
+<li class="ingredient" itemprop="ingredients">2 stalks celery, ends trimmed and diced</li><br>
+<li class="ingredient" itemprop="ingredients">4 dashes Angostura bitters</li><br>
+<li class="ingredient" itemprop="ingredients">Lemon or lime wedge</li><br>
 </ul>
 </div>
 
-
 <h3 style="clear:left" id="directions">Directions:</h3>
-<div class="instructions"><p>Heat oil in a large stockpot over medium-high heat. &nbsp;Add onion and saute for 4 minutes, stirring occasionally. &nbsp;Add carrots and celery and saute for another 3-4 minutes, or until the carrots are softened a bit. &nbsp;Add garlic and saute for an additional 1-2 minutes, or until fragrant. &nbsp;Add chicken stock and stir until combined. &nbsp;Gently stir the rosemary into the soup, then continue cooking until the soup reaches a simmer. &nbsp;Reduce heat to medium, and simmer for an additional 5 minutes until the broth has your desired level of rosemary flavor. &nbsp;(You can add in more rosemary if needed.)</p>
-<p>Once the broth is ready, remove the rosemary, and stir in the egg noodles and chicken. &nbsp;Continue cooking for 8-10 minutes or until the egg noodles are al dente. &nbsp;(The longer they cook, the more broth they will soak up. &nbsp;Feel free to add more chicken stock if desired.) &nbsp;Season the soup with salt and pepper to taste.</p>
-<p>Serve warm, garnished with extra black pepper and fresh parsley if desired.</p>
+<div class="instructions"><p>1. Fill a highball glass (or mason jar) with ice.  Add whiskey, ginger beer, bitters, and a squeeze of lime or lemon, and stir to combine.</p>
+<p>2. Serve immediately, garnished with extra lemon or lime.</p>
 <p>&nbsp;</p>
 </div>
 
-<div class="notes"><p><span style="text-decoration: underline;">*<em>A few important notes&nbsp;about rosemary:</em></span></p>
-<p>If fresh rosemary is not available, you can&nbsp;substitute 2-3 teaspoons (or more) of dried rosemary. &nbsp;Or 1.5 teaspoons (or more) ground rosemary. &nbsp;I always recommend starting with less, and then you can always add more if desired.</p>
-<p>Also, I\'\m not a big fan of eating rosemary needles, so I prefer to let the sprigs simmer in the broth until most of their flavor is released, and then just removing them before serving. &nbsp;But heads up -- they soften and tend to fall apart after they simmer for quite awhile. &nbsp;So I recommend letting them simmer on&nbsp;<em>top</em> of the stock so that you can remove them easily. &nbsp;As an alternative, you can also mince them up finely and just eat them with the soup.</p>
-<p>To each, her or his own when it comes to rosemary preferences. &nbsp;;)</p>
-</div>
-
-
 <div class="postmeta bottommeta">
-<span class="cat1">Difficulty: Easy</span>
-<span class="cat3">Category: Gluten-Free</span>
-<span class="cat1 cat4">Ingredients: <a href="http://www.gimmesomeoven.com/tag/carrot/" rel="tag">carrot</a>, <a href="http://www.gimmesomeoven.com/tag/celery/" rel="tag">celery</a>, <a href="http://www.gimmesomeoven.com/tag/chicken-3/" rel="tag">chicken</a>, <a href="http://www.gimmesomeoven.com/tag/chicken-stock/" rel="tag">chicken stock</a>, <a href="http://www.gimmesomeoven.com/tag/egg-noodles/" rel="tag">egg noodles</a>, <a href="http://www.gimmesomeoven.com/tag/fresh-rosemary/" rel="tag">fresh rosemary</a>, <a href="http://www.gimmesomeoven.com/tag/garlic/" rel="tag">garlic</a>, <a href="http://www.gimmesomeoven.com/tag/onion/" rel="tag">onion</a></span>
+<span class="cat1">Difficulty: Easy</span><br>
+<span class="cat3">Category: Quick</span>
 </div>
 
 </div>
@@ -60,53 +45,45 @@
         <div id="recipe" class="recipe" itemscope="" itemtype="http://schema.org/Recipe">
 
 <span class="item">
-<h2 class="fn" itemprop="name">Chocolate Avocado Hot Fudge Cake</h2>
+<h2 class="fn" itemprop="name">KUNG PAO CHICKEN NOODLE STIR-FRY</h2>
 </span>
 
-<div class="summary" itemprop="description" style="clear:left"><p>This amazing Chocolate Avocado Hot Fudge Cake is quick and easy to prepare, and bakes in the oven so that you have a delicious chocolate cake on top with a rich hot fudge sauce on the bottom.  Win-win!</p>
+<div class="summary" itemprop="description" style="clear:left"><p>This Kung Pao Chicken Noodle Stir-Fry recipe is quick and easy to make, totally easy to customize (with your favorite noodles, veggies, protein…you name it), and tossed with the most delicious kung pao peanut sauce.</p>
 </div>
 
 <div class="time postmeta">
-<p class="cat1"><strong>Prep Time:</strong> <meta itemprop="prepTime" content="PT10M">10 mins</p>
-<p class="cat2"><strong>Cook Time:</strong> <meta itemprop="cookTime" content="PT35M">35 mins</p>
-<p class="cat3"><strong>Total Time:</strong> <meta itemprop="totalTime" content="PT45M">45 mins</p>
+<p class="cat1"><strong>Prep Time:</strong> <meta itemprop="prepTime" content="PT10M">20 mins</p>
+<p class="cat2"><strong>Cook Time:</strong> <meta itemprop="cookTime" content="PT35M">15 mins</p>
+<p class="cat3"><strong>Total Time:</strong> <meta itemprop="totalTime" content="PT45M">35 mins</p>
 </div>
 
 <h3 id="ingredients">Ingredients:</h3>
 <div class="ingredients"><ul class="two_col_li">
-<li class="ingredient" itemprop="ingredients">1 cup <a href="http://amzn.to/2mMuvNO" target="_blank" rel="nofollow">cane&nbsp;sugar</a> <em>(or granulated sugar)</em>, divided</li>
-<li class="ingredient" itemprop="ingredients">1/2 cup packed light brown sugar</li>
-<li class="ingredient" itemprop="ingredients">1/2 cup <a href="http://amzn.to/2mw9B4S" target="_blank" rel="nofollow">unsweetened cocoa powder</a>, divided</li>
-<li class="ingredient" itemprop="ingredients">1 cup white whole wheat&nbsp;flour&nbsp;<em>(or all-purpose flour)</em></li>
-<li class="ingredient" itemprop="ingredients">2 teaspoons baking powder</li>
-<li class="ingredient" itemprop="ingredients">1/2 teaspoon&nbsp;sea salt</li>
-<li class="ingredient" itemprop="ingredients">1/2 cup milk</li>
-<li class="ingredient" itemprop="ingredients">1/3 cup mashed or pureed avocado</li>
-<li class="ingredient" itemprop="ingredients">1 1/2 teaspoons vanilla extract, <a href="http://www.gimmesomeoven.com/homemade-vanilla-extract/">homemade</a> or <a href="http://amzn.to/2ldXuox" target="_blank" rel="nofollow">store-bought</a></li>
-<li class="ingredient" itemprop="ingredients">1 1/4 cups very hot&nbsp;coffee* or water</li>
+<li class="ingredient" itemprop="ingredients">8 ounces (uncooked) noodles of your choice (I used linguine)</li><br>
+<li class="ingredient" itemprop="ingredients">2 tablespoons peanut oil or olive oil, divided</li><br>
+<li class="ingredient" itemprop="ingredients">1 pound boneless skinless chicken breasts, cut into bite-sized pieces</li><br>
+<li class="ingredient" itemprop="ingredients">1 small white onion, thinly sliced</li><br>
+<li class="ingredient" itemprop="ingredients">8 ounces baby bella or white button mushrooms, thinly sliced</li><br>
+<li class="ingredient" itemprop="ingredients">1 large zucchini, spiralized (or chopped into bite-sized pieces)</li><br>
+<li class="ingredient" itemprop="ingredients">3 cloves garlic, peeled and minced</li><br>
+<li class="ingredient" itemprop="ingredients">toppings: chopped peanuts, thinly sliced green onions, toasted sesame seeds</li>
+<li class="ingredient" itemprop="ingredients">1 tablespoon sesame oil</li><br>
+<li class="ingredient" itemprop="ingredients">1/2 teaspoon ground ginger</li><br>
 </ul>
 </div>
 
 
 <h3 style="clear:left" id="directions">Directions:</h3>
-<div class="instructions"><ol>
-<li>Heat oven to 350°F. &nbsp;Grease an 8 x 8-inch or 9 x 9-inch baking pan with cooking spray. &nbsp;Set aside.</li>
-<li>In a small&nbsp;mixing bowl, whisk&nbsp;together <span style="text-decoration: underline;">1/2 cup cane&nbsp;sugar</span>, brown sugar and <span style="text-decoration: underline;">1/4 cup</span> cocoa until evenly combined. &nbsp;Set aside.</li>
-<li>In a medium mixing bowl, stir&nbsp;together&nbsp;<span style="text-decoration: underline;">1/2 cup</span> cane&nbsp;sugar, flour, <span style="text-decoration: underline;">1/4 cup</span>&nbsp;unsweetened cocoa powder, baking powder and salt until evenly combined. Add&nbsp;in milk, avocado&nbsp;and vanilla, and stir until smooth. &nbsp;Spread the batter the prepared baking pan.</li>
-<li>Sprinkle the initial sugar-cocoa mixture evenly over batter. Pour hot coffee (or water) evenly over the top of the sugar-cocoa layer. &nbsp;Do not stir.</li>
-<li>Bake for 35&nbsp;minutes. Remove from oven, and let cool on a wire backing rack for&nbsp;15 minutes.</li>
-<li>Serve immediately while the cake is warm, spooning the hot fudge mixture on the bottom of the pan over the cake.</li>
-</ol>
-</div>
-
-<div class="notes"><p>*I like&nbsp;using coffee instead of water, because it helps bring out the flavor of the coffee. &nbsp;Another option is to stir 1 teaspoon <a href="http://amzn.to/2lT0GHd" target="_blank" rel="nofollow">espresso powder</a> into the cake batter instead, and use hot water. &nbsp;Or you can leave out the coffee entirely, and the cake will still taste great. &nbsp;;)</p>
-</div>
-
-<div class="source"><p>Adapted from <a href="https://www.hersheys.com/recipes/en_US/recipes/4761/hot-fudge-pudding-cake.html">Hershey\'s</a>.</p>
+<div class="instructions">
+<p>1. Cook noodles al dente according to package instructions.  Strain, drizzle with a bit of oil, and toss to combine.  Set aside until ready to use.</p>
+<p>2. While the noodles are being prepared, heat 1 tablespoon oil in a large sauté pan or wok over medium-high heat.  Season chicken evenly with a few pinches of salt and pepper, then add it to the pan.  Cook for 3-4 minutes, stirring occasionally, until the chicken is cooked through and no longer pink inside.  Transfer the chicken to a clean plate with a slotted spoon, and set aside.</p>
+<p>3. Add the remaining 1 tablespoon oil to the pan, along with the onion and mushrooms.  Sauté for 5 minutes, stirring occasionally, until soft.  Add the zucchini* and garlic and sauté for 2 more minutes, stirring occasionally.</p>
+<p>4. Stir in the Kung Pao Sauce and cooked chicken until everything is evenly combined.  Cook for 1 more minute until it comes to a simmer.</p>
+<p>5. Remove from heat and serve immediately, garnished with your desired toppings.</p>
 </div>
 
 <div class="postmeta bottommeta">
-<span class="cat1">Difficulty: Easy</span>
+<span class="cat1">Difficulty: Easy</span><br>
 <span class="cat3">Category: Quick</span>
 
 </div>
@@ -119,44 +96,47 @@
 <div id="recipe" class="recipe" itemscope="" itemtype="http://schema.org/Recipe">
 
 <span class="item">
-<h2 class="fn" itemprop="name">Creamy Raspberry Protein Smoothie</h2>
+<h2 class="fn" itemprop="name">JAPCHAE (KOREAN NOODLE STIR-FRY)</h2>
 </span>
 
-<div class="summary" itemprop="description" style="clear:left"><p>This Creamy Raspberry Protein Smoothie is packed with feel-good ingredients, and tastes so sweet and delicious!</p>
+<div class="summary" itemprop="description" style="clear:left"><p>This quick and easy Japchae (Korean Noodle Stir-Fry) recipe takes less than 30 minutes to make, it’s easy to customize with whatever veggies and protein you have on hand (or it can be vegan if you go with tofu or veggies-only), and it’s totally delicious.</p>
 </div>
 
 <div class="time postmeta">
-<p class="cat1"><strong>Prep Time:</strong> <meta itemprop="prepTime" content="PT3M">3 mins</p>
-<p class="cat2"><strong>Cook Time:</strong> <meta itemprop="cookTime" content="PT0M">0 mins</p>
-<p class="cat3"><strong>Total Time:</strong> <meta itemprop="totalTime" content="PT3M">3 mins</p>
+<p class="cat1"><strong>Prep Time:</strong> <meta itemprop="prepTime" content="PT3M">15 mins</p>
+<p class="cat2"><strong>Cook Time:</strong> <meta itemprop="cookTime" content="PT0M">15 mins</p>
+<p class="cat3"><strong>Total Time:</strong> <meta itemprop="totalTime" content="PT3M">30 mins</p>
 </div>
 
 <h3 id="ingredients">Ingredients:</h3>
 <div class="ingredients"><ul>
-<li class="ingredient" itemprop="ingredients">1 1/2 cups frozen raspberries</li>
-<li class="ingredient" itemprop="ingredients">1 banana, sliced and frozen</li>
-<li class="ingredient" itemprop="ingredients">3/4 cup plain or vanilla almond milk</li>
-<li class="ingredient" itemprop="ingredients">1/2 cup plain or vanilla Greek yogurt</li>
-<li class="ingredient" itemprop="ingredients">1 tablespoon <a href="http://amzn.to/2motYOV" target="_blank" rel="nofollow">bee pollen</a></li>
-<li class="ingredient" itemprop="ingredients">1 tablespoon <a href="http://amzn.to/2lOwY8w" target="_blank" rel="nofollow">hemp seeds</a></li>
-<li class="ingredient" itemprop="ingredients">1 teaspoon <a href="http://amzn.to/2lJwfUD" target="_blank" rel="nofollow">chia seeds</a></li>
-<li class="ingredient" itemprop="ingredients"><em>optional:&nbsp;</em>1-2 tablespoons of honey to sweeten, if needed</li>
+<li class="ingredient" itemprop="ingredients">2 tablespoons olive oil (or any mild-flavored oil), divided</li><br>
+<li class="ingredient" itemprop="ingredients">half a medium white onion, thinly sliced</li>v
+<li class="ingredient" itemprop="ingredients">6 shiitake mushrooms, thinly sliced</li><br>
+<li class="ingredient" itemprop="ingredients">1 red bell pepper, cored and thinly sliced</li><br>
+<li class="ingredient" itemprop="ingredients">1 large carrot, peeled and thinly sliced</li><br>
+<li class="ingredient" itemprop="ingredients">8 ounces<a href="http://amzn.to/2Ht6gLR" target="_blank" rel="nofollow">dangmyeon</a> (sweet potato starch noodles)*</li><br>
+<li class="ingredient" itemprop="ingredients">toppings: toasted sesame seeds, thinly-sliced green onions</li><br>
+<li class="ingredient" itemprop="ingredients">3 handfuls fresh baby spinach</li><br>
 </ul>
 </div>
 
-
 <h3 style="clear:left" id="directions">Directions:</h3>
-<div class="instructions"><ol>
-<li>Add all ingredients to a blender and puree until smooth. &nbsp;If you need to thin out the smoothie, add extra almond milk.</li>
-<li>Taste, and add some honey if you\'d like the smoothie to be sweeter.</li>
-<li>Serve immediately, garnished with extra bee pollen, hemp seeds, and chia seeds, if desired.</li>
-</ol>
+<div class="instructions">
+<p>1. To Make The Noodles: Cook the sweet potato starch noodles in a large pot of boiling water according to package directions, until they are al dente.  (Be careful not to overcook, or they will become mushy in the stir-fry.)  Transfer noodles to a strainer, and rinse with cold water until they are completely chilled.  Strain out any extra water, then drizzle a bit of sesame oil on the noodles and toss with your fingers until they are evenly coated.  This will help them not to stick together.  Set aside.</p>
+<p>2. To Make The Sauce: Whisk all ingredients together until combined.</p>
+<p>3. To Prep The Steak: Toss the steak, soy sauce, and a generous pinch each of salt and pepper together in a large bowl until combined.  Let marinate for 5 minutes.</p>
+<p>4. To Make The Stir-Fry: Heat 1 tablespoon oil in a large sauté pan or wok over high heat.  Add the steak and sauté for 4-5 minutes, stirring occasionally, until cooked through.  Transfer steak to a separate clean plate, and set aside.</p>
+<p>5. Reduce the sauté pan heat to medium-high.  Add the remaining 1 tablespoon oil and the onion, and toss to combine.  Sauté for 3 minutes, stirring occasionally.  Then stir in the mushrooms, bell pepper, carrot and garlic cloves, and season with a few pinches of salt and pepper.  Continue sautéing for 4-5 more minutes, stirring occasionally, until the veggies are tender and cooked, but are still slightly crispy.</p>
+<p>6. Stir in the spinach, and cook for 2-3 more minutes, using tongs to toss the veggie mixture frequently, until the spinach has wilted.</p>
+<p>7. Remove pan from heat.  Add the cooked noodles, steak and sauce to the veggie mixture, and toss to combine.  Taste, and season with extra soy sauce, sesame oil, salt and/or pepper if needed.</p>
+<p>8. Serve warm, garnished with lots of toasted sesame seeds and green onions.</p>
 </div>
 
 
 
 <div class="postmeta bottommeta">
-<span class="cat1">Difficulty: Easy</span>
+<span class="cat1">Difficulty: Easy</span><br>
 <span class="cat3">Category: Quick</span>
 
 </div>
@@ -169,63 +149,41 @@
         <![CDATA[
         <div id="recipe" class="recipe" itemscope="" itemtype="http://schema.org/Recipe">
 <span class="item">
-<h2 class="fn" itemprop="name">Wholesome Carrot Muffins</h2>
+<h2 class="fn" itemprop="name">IRISH COFFEE</h2>
 </span>
 
-<div class="summary" itemprop="description" style="clear:left"><p>These wholesome carrot muffins are made with healthier ingredients, perfectly moist and fluffy, and full of the best spiced carrot flavors!</p>
+<div class="summary" itemprop="description" style="clear:left"><p>This Irish Coffee recipe is quick and easy to make, and always a crowd favorite!</p>
 </div>
 
 <div class="time postmeta">
-<p class="cat1"><strong>Prep Time:</strong> <meta itemprop="prepTime" content="PT15M">15 mins</p>
-<p class="cat2"><strong>Cook Time:</strong> <meta itemprop="cookTime" content="PT20M">20 mins</p>
-<p class="cat3"><strong>Total Time:</strong> <meta itemprop="totalTime" content="PT25M">25 mins</p>
+<p class="cat1"><strong>Prep Time:</strong> <meta itemprop="prepTime" content="PT15M">1 mins</p>
+<p class="cat2"><strong>Cook Time:</strong> <meta itemprop="cookTime" content="PT20M">0 mins</p>
+<p class="cat3"><strong>Total Time:</strong> <meta itemprop="totalTime" content="PT25M">1 mins</p>
 </div>
 
 <h3 id="ingredients">Ingredients:</h3>
 <div class="ingredients"><h4>Muffin Ingredients:</h4>
 <ul>
-<li class="ingredient">1 1/4 cups white whole wheat flour<em> (or all-purpose flour)</em></li>
-<li class="ingredient">1 cup old-fashioned oats</li>
-<li class="ingredient">1 1/2 teaspoon&nbsp;baking powder</li>
-<li class="ingredient">1 teaspoon&nbsp;ground cinnamon</li>
-<li class="ingredient">1/2 teaspoon&nbsp;baking soda</li>
-<li class="ingredient">1/4 tsp <em>each&nbsp;</em>ground nutmeg, ground ginger, salt</li>
-<li class="ingredient">2 large eggs</li>
-<li class="ingredient">1/2 cup plain Greek yogurt</li>
-<li class="ingredient">1/2 cup <a href="http://amzn.to/2meXc58" target="_blank" rel="nofollow">Wholesome Organic Honey</a></li>
-<li class="ingredient">1/4 cup avocado or olive&nbsp;oil</li>
-<li class="ingredient">2 teaspoons&nbsp;vanilla extract, <a href="http://www.gimmesomeoven.com/homemade-vanilla-extract/">homemade</a> or store-bought</li>
-<li class="ingredient">1 1/2 cup grated carrot</li>
-<li class="ingredient">optional 1/2 cup raisins</li>
+<li class="ingredient">1 cup freshly-brewed hot coffee</li><br>
+<li class="ingredient">1 ½ ounces (3 Tablespoons) Irish Whiskey</li><br>
+<li class="ingredient">2-3 teaspoons turbinado sugar (or brown sugar)</li><br>
+<li class="ingredient">whipped cream</li><br>
+
 </ul>
 <h4>(Optional) Icing Ingredients:</h4>
 <ul>
-<li class="ingredient" itemprop="ingredients">1 cup <a href="http://amzn.to/2lXIxJc" target="_blank" rel="nofollow">Wholesome Organic Powdered Sugar</a></li>
-<li class="ingredient" itemprop="ingredients">1 tablespoon Wholesome Organic Honey</li>
-<li class="ingredient" itemprop="ingredients">1-2 tablespoons milk (of any kind)</li>
+<li class="ingredient">optional toppings: freshly-ground nutmeg or chocolate shavings</li>
 </ul>
 </div>
 
-
 <h3 style="clear:left" id="directions">Directions:</h3>
-<div class="instructions"><h4>To Make The Muffins:</h4>
-<ol>
-<li>Heat oven to 350°F. &nbsp;Line 12 baking cups with paper liners, or mist&nbsp;with cooking spray. &nbsp;Set aside.</li>
-<li>Combine flour, oats, baking powder, baking soda, cinnamon, nutmeg, ginger, and salt together in a large mixing bowl. &nbsp;Whisk until combined. &nbsp;Set aside.</li>
-<li>In a separate bowl, combine the eggs, Green yogurt, honey, oil, vanilla, carrots and raisins (if using). &nbsp;Stir until combined.</li>
-<li>Add the wet ingredients to the dry ingredients, and stir until just combined. &nbsp;(Try not to overmix.)</li>
-<li>Portion the batter evenly between 12 baking cups.Bake for 18-20 minutes, or until a toothpick inserted in the center of the muffin comes out clean. &nbsp;Transfer pan to a cooling rack, then drizzle with icing once the muffins reach room temperature. &nbsp;Serve immediately. &nbsp;Or let cool to room temperature, then store in a sealed container for up to 2 days, or freeze.</li>
-</ol>
-<h4>To Make The&nbsp;Icing:</h4>
-<ol>
-<li>Whisk all ingredients together until combined.</li>
-</ol>
+<p>See the <a href="http://amzn.to/2Ht6gLR" target="_blank" rel="nofollow">Kitchenthusiast</a> from KitchenAid for the <a href="http://amzn.to/2Ht6gLR" target="_blank" rel="nofollow">recipe instructions.</a></p>
 </div>
 
 
 
 <div class="postmeta bottommeta">
-<span class="cat1">Difficulty: Easy</span>
+<span class="cat1">Difficulty: Easy</span><br>
 <span class="cat3">Category: Quick</span>
  
 </div>
@@ -238,7 +196,7 @@
 <div id="recipe" class="recipe" itemscope="" itemtype="http://schema.org/Recipe">
 
 <span class="item">
-<h2 class="fn" itemprop="name">Pineapple Ginger Chicken Stir-Fry</h2>
+<h2 class="fn" itemprop="name">PINEAPPLE GINGER CHICKEN STIR-FRY</h2>
 </span>
 
 <div class="summary" itemprop="description" style="clear:left"><p>This delicious Pineapple Ginger Chicken Stir-Fry is quick and easy to make, and full of the best sweet and savory fresh flavors!</p>
@@ -317,15 +275,15 @@
         <item>@string/fifth_recipe</item>
     </string-array>
     <string-array name="cooks_title">
-        <item>Rosemary Chicken Noodle Soup</item>
-        <item>Chocolate Avocado Hot Fudge Cake</item>
-        <item>Creamy Raspberry Protein Smoothie</item>
-        <item>Wholesome Carrot Muffins</item>
-        <item>Pineapple Ginger Chicken Stir-Fry</item>
-        <item>Rosemary Chicken Noodle Soup</item>
-        <item>Chocolate Avocado Hot Fudge Cake</item>
-        <item>Creamy Raspberry Protein Smoothie</item>
-        <item>Wholesome Carrot Muffins</item>
-        <item>Pineapple Ginger Chicken Stir-Fry</item>
+        <item>HORSEFEATHER COCKTAIL</item>
+        <item>KUNG PAO CHICKEN NOODLE STIR-FRY</item>
+        <item>JAPCHAE (KOREAN NOODLE STIR-FRY)</item>
+        <item>IRISH COFFEE</item>
+        <item>PINEAPPLE GINGER CHICKEN STIR-FRY</item>
+        <item>HORSEFEATHER COCKTAIL</item>
+        <item>KUNG PAO CHICKEN NOODLE STIR-FRY</item>
+        <item>JAPCHAE (KOREAN NOODLE STIR-FRY)</item>
+        <item>IRISH COFFEE</item>
+        <item>PINEAPPLE GINGER CHICKEN STIR-FRY</item>
     </string-array>
 </resources>
