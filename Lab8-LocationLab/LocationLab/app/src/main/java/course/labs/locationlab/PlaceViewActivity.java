@@ -268,13 +268,13 @@ public class PlaceViewActivity extends ListActivity implements LocationListener 
                 mAdapter.removeAllViews();
                 return true;
             case R.id.place_one:
-                mMockLocationProvider.pushLocation(37.422, -122.084);
+                mMockLocationProvider.pushLocation(10.808767, 106.665071);
                 return true;
             case R.id.place_no_country:
                 mMockLocationProvider.pushLocation(0, 0);
                 return true;
             case R.id.place_two:
-                mMockLocationProvider.pushLocation(38.996667, -76.9275);
+                mMockLocationProvider.pushLocation(48.858408, 2.294607);
                 return true;
             default:
                 return super.onOptionsItemSelected(item);

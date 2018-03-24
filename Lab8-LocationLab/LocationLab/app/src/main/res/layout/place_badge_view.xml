@@ -22,15 +22,17 @@
         <TextView
             android:id="@+id/place_name"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" 
-            android:text="Place: "
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
             android:singleLine="true"
-            android:ellipsize="end"/>
+            android:text="Place: "
+            android:textColor="@android:color/black" />
 
         <TextView
             android:id="@+id/country_name"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
             android:text="Country: " 
             android:singleLine="true"
             android:ellipsize="end"/>
