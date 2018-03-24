@@ -1,6 +1,7 @@
 package com.assignment.pc.cookingrecipes;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -38,8 +39,11 @@ public class RcAdapter extends RecyclerView.Adapter<RcAdapter.ViewHolder> {
             @Override
             public void onClick(View v) {
 //                Toast.makeText(mContext, mItems.get(position).getLink(), Toast.LENGTH_SHORT).show();
-                DetailsDialog dialog = new DetailsDialog(mContext,mItems.get(position));
-                dialog.show();
+//                DetailsDialog dialog = new DetailsDialog(mContext,mItems.get(position));
+//                dialog.show();
+                Intent i = new Intent(mContext,WebviewActivity.class);
+                i.putExtra("url",mItems.get(position).getLink());
+                mContext.startActivity(i);
             }
         });
     }
