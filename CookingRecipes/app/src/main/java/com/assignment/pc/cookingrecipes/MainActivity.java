@@ -1,5 +1,6 @@
 package com.assignment.pc.cookingrecipes;
 
+import android.content.Intent;
 import android.net.Uri;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
@@ -14,11 +15,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements FragmentOne.OnFragmentInteractionListener
-,FragmentTwo.OnFragmentInteractionListener,FragmentThree.OnFragmentInteractionListener{
+,FragmentTwo.OnFragmentInteractionListener,FragmentThree.SelectionListener{
     RecyclerView rc_lowcarb;
 //    RcAdapter adapter;
     TabLayout tablayout;
     ViewPager viewpager;
+    private static final String[] CATEGORIES = { "Desserts", "Low carb",
+            "Chinese", "French toasts", "Appetizers", "Salads", "Pork", "Soup" };
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -32,7 +35,7 @@ public class MainActivity extends AppCompatActivity implements FragmentOne.OnFra
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFragment(new FragmentOne(),"Meat & chicken");
         adapter.addFragment(new FragmentTwo(),"Seafood");
-        adapter.addFragment(new FragmentThree(),"Salads");
+        adapter.addFragment(new FragmentThree(),"Categories");
         viewpager.setAdapter(adapter);
         // limit number of current page
         viewpager.setOffscreenPageLimit(3);
@@ -44,6 +47,11 @@ public class MainActivity extends AppCompatActivity implements FragmentOne.OnFra
 
     }
 
+    public void onItemSelected(int position) {
+        Intent myIntent = new Intent(MainActivity.this, Main2Activity.class);
+        myIntent.putExtra("title", CATEGORIES[position]);
+        MainActivity.this.startActivity(myIntent);
+    }
 
     private class ViewPagerAdapter extends FragmentPagerAdapter {
         List<Fragment> mFragments = new ArrayList<>();
