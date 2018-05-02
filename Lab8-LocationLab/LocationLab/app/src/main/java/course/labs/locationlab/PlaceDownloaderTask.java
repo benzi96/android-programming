@@ -147,6 +147,7 @@ public class PlaceDownloaderTask extends AsyncTask<Location, Void, PlaceRecord> 
 			Log.e(TAG, "MalformedURLException");
 		} catch (IOException e) {
 			Log.e(TAG, "IOException");
+
 		} finally {
 			try {
 				if (null != in) {
@@ -163,15 +164,22 @@ public class PlaceDownloaderTask extends AsyncTask<Location, Void, PlaceRecord> 
 	private Bitmap getFlagFromURL(String flagUrl) {
 		InputStream in = null;
 		Log.i("temp", flagUrl);
+		int statusCode=1;
 		try {
+			//InputStream is = (InputStream) new URL(flagUrl).getContent();
 			URL url = new URL(flagUrl);
 			mHttpUrl = (HttpURLConnection) url.openConnection();
+			statusCode = mHttpUrl.getResponseCode();
 			in = mHttpUrl.getInputStream();
 			return BitmapFactory.decodeStream(in);
 		} catch (MalformedURLException e) {
 			Log.e(TAG, "MalformedURLException");
 		} catch (IOException e) {
 			Log.e(TAG, "IOException");
+			if (statusCode != 200) {
+				in = mHttpUrl.getErrorStream();
+			}
+			Log.e(TAG, "" + statusCode + " " + in);
 		} finally {
 			try {
 				if (null != in) {
@@ -242,8 +250,10 @@ public class PlaceDownloaderTask extends AsyncTask<Location, Void, PlaceRecord> 
 
 	// URL for acquiring flag image based on country code
 	private static String generateFlagURL(String countryCode) {
-		return "http://www.geonames.org/flags/x/"
-				+ countryCode.toLowerCase(Locale.US) + ".gif";
+		//return "http://www.geonames.org/flags/x/"
+		//		+ countryCode.toLowerCase(Locale.US) + ".gif";
+
+		return "https://flagpedia.net/data/flags/normal/" + countryCode.toLowerCase(Locale.US) + ".png";
 	}
 
 }

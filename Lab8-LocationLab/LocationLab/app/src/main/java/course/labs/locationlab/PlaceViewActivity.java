@@ -88,32 +88,39 @@ public class PlaceViewActivity extends ListActivity implements LocationListener 
             public void onClick(View arg0) {
                 Log.i(TAG, "Entered footerView.OnClickListener.onClick()");
 
-                if (mLastLocationReading == null)
-                {
-                    // case 3
-                    mFooterView.setEnabled(false);
-
-                    Toast.makeText(PlaceViewActivity.this,
-                            "Location data is not available", Toast.LENGTH_LONG).show();
-                }
-                else
-                {
-                    if (mAdapter.intersects(mLastLocationReading))
-                    {
-                        // case 2
-
-                        Toast.makeText(PlaceViewActivity.this,
-                                "You already have this location badge", Toast.LENGTH_SHORT).show();
-
+//                if (mLastLocationReading == null)
+//                {
+//                    // case 3
+//                    mFooterView.setEnabled(false);
+//
+//                    Toast.makeText(PlaceViewActivity.this,
+//                            "Location data is not available", Toast.LENGTH_LONG).show();
+//                }
+//                else
+//                {
+//                    if (mAdapter.intersects(mLastLocationReading))
+//                    {
+//                        // case 2
+//
+//                        Toast.makeText(PlaceViewActivity.this,
+//                                "You already have this location badge", Toast.LENGTH_SHORT).show();
+//
+//                    }
+//                    else
+//                    {
+//                        // case 1
+//                        //addNewPlace(new PlaceRecord(mLastLocationReading));
+//                        new PlaceDownloaderTask(PlaceViewActivity.this, sHasNetwork).execute(mLastLocationReading);
+//                        Log.i(TAG, "Starting Place Download");
+//                    }
+//                }
+                for (PlaceRecord place : mAdapter.getList()) {
+                    if (place.intersects(mLastLocationReading)) {
+                        Toast.makeText(PlaceViewActivity.this, "You already have this location badge.", Toast.LENGTH_SHORT).show();
+                        return;
                     }
-                    else
-                    {
-                        // case 1
-                        //addNewPlace(new PlaceRecord(mLastLocationReading));
-                        new PlaceDownloaderTask(PlaceViewActivity.this, sHasNetwork).execute(mLastLocationReading);
-                        Log.i(TAG, "Starting Place Download");
-                    }
                 }
+                new PlaceDownloaderTask(PlaceViewActivity.this, sHasNetwork).execute(mLastLocationReading);
 
 
 
@@ -188,14 +195,24 @@ public class PlaceViewActivity extends ListActivity implements LocationListener 
         // Do not add the PlaceBadge to the adapter
 
         // Otherwise - add the PlaceBadge to the adapter
+        if (mAdapter.getList().contains(place))
+        {
+            Toast.makeText(PlaceViewActivity.this,"You already have this location badge", Toast.LENGTH_SHORT).show();
+            return;
+        }
+
         if (place == null) {
             Toast.makeText(this, "PlaceBadge could not be acquired", Toast.LENGTH_LONG).show();
+            return;
         }
-        if (place.getPlace () == null) {
+
+        if (place.getCountryName ().isEmpty()) {
             Toast.makeText (this, "There is no country at this location", Toast.LENGTH_LONG).show ();
-        } else {
-            mAdapter.add (place);
+            return;
         }
+
+        mAdapter.add(place);
+
     }
 
     // LocationListener methods
